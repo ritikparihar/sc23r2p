@@ -32,9 +32,9 @@ Please download the dataset and place the files as described in the "Project Str
 [Dataset] (https://www.kaggle.com/competitions/aptos2019-blindness-detection/data)
 
 
-## Environment Variables
+## Project Structure and File Placement
 
-To run this project, you will need to add the following environment variables to your .env file
+To ensure that the code runs correctly, you must organize your files in the following structure:
 
 `project_folder/`
 
